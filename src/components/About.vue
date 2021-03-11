@@ -17,7 +17,7 @@
                     
                 </div>
                 <div class="row">
-                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted"> Soy egresado de la carrera analista programador, estoy en búsqueda de una empresa en la que poder aplicar todos mis conocimientos y, al mismo tiempo, que me permita desarrollarme profesionalmente. </p></div>
+                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Soy egresado de la carrera analista programador, estoy en búsqueda de una empresa en la que poder aplicar todos mis conocimientos y, al mismo tiempo, que me permita desarrollarme profesionalmente. </p></div>
                 </div>
             </div>
         </section>
