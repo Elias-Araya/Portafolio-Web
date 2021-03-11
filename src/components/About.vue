@@ -10,8 +10,8 @@
                             <img class="mx-auto rounded-circle" src="../assets/img/logo.png" alt="" />
                             <h4>Elias Araya</h4>
                             <p class="text-muted"></p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-github"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/elias-araya-6554b91b1/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://github.com/Elias-Araya" target="_blank"><i class="fab fa-github"></i></a>
                         </div>
                     </div>
                     

@@ -43,8 +43,8 @@
                            
                         </div>
                         <div class="card-footer text-muted">
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-github"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="https://portafolio-boots.netlify.app"><i class="fab fa-chrome"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://github.com/Elias-Araya/Portafolio-Web" target="_blank"><i class="fab fa-github"></i></a>
+                            <a class="btn btn-dark btn-social mx-2" href="https://portafolio-boots.netlify.app" target="_blank"><i class="fab fa-chrome"></i></a>
 
                         </div>
                     </div>
